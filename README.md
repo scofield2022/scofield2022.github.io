@@ -12,9 +12,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Hongyi Yang
 ## Header 2
+email: hyang3608@conestogac.on.ca
 ### Header 3
-
+beginner
 - Bulleted
 - List
 
