@@ -82,10 +82,10 @@ hr {height: 3px;width: 60px;position: relative;background: #626a29;border: 0;mar
 .navbar-default .navbar-toggle:hover>.icon-bar {background-color: #FFF;}
 
 /* Home Style */
-header {background: url(../images/header-bg.jpg) no-repeat center center;background-size: cover;color: #d9e0e2;position: relative;height: 420px;}
+header {background: url(../images/25.jpg) no-repeat center center;background-size: cover;color: #d9e0e2;position: relative;height: 420px;}
 header p {color: #d9e0e2;font-size: 19px;margin-bottom: 40px;text-transform: uppercase;letter-spacing: 1px;}
 .intro-text {position: relative;padding-top: 150px;padding-right: 0;padding-left: 0;padding-bottom: 50px;}
-.intro-text h1 {font-size: 65px;text-transform: uppercase;color: #d9e0e2;letter-spacing: 2px;}	
+.intro-text h1 {font-size: 65px;text-transform: uppercase;color: #23819b;letter-spacing: 2px;}	
 
 /* ---------------------------------------------------------------------------- */
 /* -------------------------------------Content-------------------------------- */
